@@ -1,0 +1,5 @@
+CREATE TABLE feedback (
+    regmail varchar(320) not null,
+    enrlno char(6) not null,
+    feed varchar(100) not null
+)

@@ -1,0 +1,79 @@
+<footer id="footer">
+<div class="footer-top">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-6 footer-info">
+    <h3>ADUCATORS</h3>
+    <p></p>
+</div>
+<div class="col-lg-2 col-md-6 footer-links">
+    <h4>COMPANY</h4>
+    <ul>
+        <li> <a href="about.php">About</a></li>
+    </ul>
+</div>
+<div class="col-lg-3 col-md-6 footer-student-area">
+    <h4>Student Area</h4>
+    <ul>
+        <li> <a href="admission.php">Admission at Aducators</a></li>
+        <li> <a href="courses/catalogue.php">Courses</a></li>
+    </ul>
+</div>
+<div class="col-lg-3 col-md-6 footer-contact">
+    <h4>Reach Us</h4>
+    <p> Delhi, India <br> <hr>
+        <strong>PhNo: +91 8368-228-666</strong> <br />
+        <strong>Email: aducators.hi@gmail.com</strong>
+    </p>
+    <div class="social-links">
+        <a href="https://facebook.com/Aducators.in" title="Facebook" target="_blanck">
+            <img src="img/Icon/facebook.jpg" style="height: 35px; width: 34px"/>
+        </a>
+        <a href="https://www.youtube.com/channel/UCapC0zXyu1wnMXQkJduYjPA" title="YouTube" target="_blanck">
+            <img src="img/Icon/youtube.png" style="height: 35px; width: 34px"/>
+        </a>
+    </div>
+</div>
+<!-- <form>
+<input type="button" class="btn btn-primary" value="Need Call Back?" data-target="#CallBackModal" data-toggle="modal" />
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="modal fade" id="CallBackModal" tabindex="-1">
+<div class="modal-dialog modal-sm modal-dialog-centered">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title text-body">We respond within 5 min during working hours</h4>
+<button class="close" data-dismiss="modal">&times;</button>
+</div>
+<div class="modal-body">
+<asp:TextBox ID="CName" placeholder="Your Good Name" style="width: 260px;" class="mb-2" MaxLength="30" runat="server"></asp:TextBox>
+<asp:TextBox ID="CCon" placeholder="Your Contact Number" style="width: 260px;" MaxLength="10" runat="server"></asp:TextBox>
+<asp:Label ID="Label1" runat="server" Text=""></asp:Label>
+</div>
+<div class="modal-footer">
+<asp:Button ID="Button1" runat="server" class="btn btn-primary" Text="Submit"  OnClick="Button1_Click" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form> -->
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="copyright">
+    &copy; Copyright <strong>ADUCATORS</strong>. All Rights Reserved
+</div>
+<div class="credits">
+    
+</div>
+</div>
+</footer>
+
+<!-- FILES -->
+<!-- <link rel="stylesheet" href="css/MasterStyle.css" />                  CSS FILE -->
